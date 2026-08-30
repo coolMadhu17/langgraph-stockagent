@@ -1,0 +1,826 @@
+Enter stock name: RELIANCE
+Enter exchange (NSE/BSE): NSE
+
+==========================================
+       INDIAN STOCK ANALYST AGENT
+              LESSON 14
+==========================================
+
+---- MARKET DATA NODE ----
+Fetching: RELIANCE.NS
+Current Price: 1305.5
+Rows retrieved: 250
+
+---- VALIDATE MARKET DATA ----
+Price: 1305.5
+Retry count: 0
+✅ Market data looks valid
+
+---- STARTING PARALLEL ANALYSIS ----
+
+---- FUNDAMENTAL ANALYSIS NODE ----
+
+---- NEWS ANALYSIS NODE ----
+Collecting news for: RELIANCE
+Fetching fundamental data: RELIANCE.NS
+Exchange: NSE
+
+Searching: RELIANCE latest India stock news
+
+---- TECHNICAL ANALYSIS NODE ----
+
+Current Price: ₹1305.50
+
+20 DMA: ₹1309.25
+50 DMA: ₹1306.56
+200 DMA: ₹1393.84
+
+RSI: 55.24
+
+52 Week High: ₹1584.97
+52 Week Low: ₹1258.80
+
+Technical Trend: Bearish
+
+Articles found: 100
+
+Searching: RELIANCE earnings India
+
+Stock: RELIANCE
+Exchange: NSE
+
+P/E Ratio:
+23.62
+
+Forward P/E:
+18.23
+
+EPS:
+55.27
+
+ROE:
+Not available
+
+ROA:
+Not available
+
+Debt / Equity:
+36.65
+
+Revenue Growth:
+29.70%
+
+Earnings Growth:
+-22.40%
+
+Dividend Yield:
+46.00%
+
+Market Capitalization:
+17666643329024
+
+Articles found: 100
+
+Searching: RELIANCE results India
+Articles found: 100
+
+Searching: RELIANCE orders India
+Articles found: 100
+
+Searching: RELIANCE acquisition India
+Articles found: 100
+
+Searching: RELIANCE management India
+Articles found: 100
+
+Searching: RELIANCE analyst India
+Articles found: 72
+
+Searching: RELIANCE NSE
+Articles found: 100
+
+Total articles collected: 772
+After removing duplicates: 695
+Articles from last 7 days: 19
+
+Articles selected for analysis: 19
+
+====================================
+       NEWS ARTICLE RANKING
+====================================
+
+1. Score: 85
+   Title: Stocks to watch: Reliance Industries, Power Grid, IREDA among shares to be in focus today. Details here - livemint.com
+   Source: livemint.com
+   Source Quality: HIGH
+   Published: Mon, 24 Aug 2026 02:13:26 GMT
+   Recency Score: 35
+   Source Score: 25
+   Relevance Score: 20
+   Materiality Score: 5
+
+2. Score: 85
+   Title: Stocks in news: Reliance Industries, Bank of Baroda, Power Grid, NATCO Pharma and JSW Infra - The Economic Times
+   Source: The Economic Times
+   Source Quality: HIGH
+   Published: Mon, 24 Aug 2026 00:30:00 GMT
+   Recency Score: 35
+   Source Score: 25
+   Relevance Score: 20
+   Materiality Score: 5
+
+3. Score: 68
+   Title: Reliance Infrastructure Ltd. Share Price Today - Reliance Infrastructure Ltd. Stock Price Live NSE/BSE - CNBC TV18
+   Source: CNBC TV18
+   Source Quality: HIGH
+   Published: Fri, 21 Aug 2026 10:00:00 GMT
+   Recency Score: 18
+   Source Score: 25
+   Relevance Score: 20
+   Materiality Score: 5
+
+4. Score: 65
+   Title: 3rd Chargesheet Filed In Reliance Communications' Rs 1,200-Crore Loan Fraud Case - NDTV
+   Source: NDTV
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 16:47:47 GMT
+   Recency Score: 18
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 15
+
+5. Score: 60
+   Title: Reliance Home Finance Ltd (RHFL) Share Price - Business Today
+   Source: Business Today
+   Source Quality: HIGH
+   Published: Fri, 21 Aug 2026 07:00:00 GMT
+   Recency Score: 10
+   Source Score: 25
+   Relevance Score: 20
+   Materiality Score: 5
+
+6. Score: 57
+   Title: DEE Development Engineers Secures INR 36 Crore Order from Reliance Industries - Energetica India Magazine
+   Source: Energetica India Magazine
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 07:26:22 GMT
+   Recency Score: 10
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 15
+
+7. Score: 55
+   Title: DAP 2026 has been designed to bolster self | Akashvani News - News On AIR
+   Source: News On AIR
+   Source Quality: NORMAL
+   Published: Sun, 23 Aug 2026 20:33:46 GMT
+   Recency Score: 30
+   Source Score: 12
+   Relevance Score: 8
+   Materiality Score: 5
+
+8. Score: 55
+   Title: Reliance Industries’ Underground Coal Gasification Project in Andhra Pradesh - Discovery Alert
+   Source: Discovery Alert
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 10:14:10 GMT
+   Recency Score: 18
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 5
+
+9. Score: 55
+   Title: RCOM Share Price Today - Reliance Communications on NSE/BSE - scanx.trade
+   Source: scanx.trade
+   Source Quality: NORMAL
+   Published: Sat, 22 Aug 2026 03:05:52 GMT
+   Recency Score: 18
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 5
+
+10. Score: 52
+   Title: Reliance Industries Q4 Results: PAT Falls 13% YoY, West Asia War Hits O2C, Oil & Gas Biz; Full Earnings Report - Goodreturns
+   Source: Goodreturns
+   Source Quality: NORMAL
+   Published: Tue, 18 Aug 2026 09:48:56 GMT
+   Recency Score: 5
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 15
+
+11. Score: 48
+   Title: RIL proposes Rs 2.73 lakh crore investment for India’s first coal gasification complex in Andhra - The Economic Times
+   Source: The Economic Times
+   Source Quality: HIGH
+   Published: Wed, 19 Aug 2026 19:07:10 GMT
+   Recency Score: 10
+   Source Score: 25
+   Relevance Score: 8
+   Materiality Score: 5
+
+12. Score: 47
+   Title: Reliance Industries Plans ₹2.73 Lakh Crore Investment For India's First Coal Gasification Project - Sahi
+   Source: Sahi
+   Source Quality: NORMAL
+   Published: Thu, 20 Aug 2026 03:07:09 GMT
+   Recency Score: 10
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 5
+
+13. Score: 47
+   Title: Reliance and Jio to invest Rs 10 lakh crore over seven years for India’s AI transformation: Mukesh Ambani - DD News
+   Source: DD News
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 05:08:16 GMT
+   Recency Score: 10
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 5
+
+14. Score: 47
+   Title: Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox
+   Source: Upstox
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 07:00:00 GMT
+   Recency Score: 10
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 5
+
+15. Score: 47
+   Title: Reliance Power Share Price - Live NSE: RPOWER Stock Price & Chart - Upstox
+   Source: Upstox
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 07:00:00 GMT
+   Recency Score: 10
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 5
+
+16. Score: 47
+   Title: Reliance Industrial Infra Share Price - Live NSE: RIIL Stock Price & Chart - Upstox
+   Source: Upstox
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 07:00:00 GMT
+   Recency Score: 10
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 5
+
+17. Score: 42
+   Title: India nears full self-reliance in key electronics components: Vaishnaw - Awaz The Voice
+   Source: Awaz The Voice
+   Source Quality: NORMAL
+   Published: Mon, 17 Aug 2026 15:48:30 GMT
+   Recency Score: 5
+   Source Score: 12
+   Relevance Score: 20
+   Materiality Score: 5
+
+18. Score: 35
+   Title: Second To China In Mobile Manufacturing, India Now Planning To Bite Into The Entire Electronics Value Chain - ETV Bharat
+   Source: ETV Bharat
+   Source Quality: NORMAL
+   Published: Wed, 19 Aug 2026 14:52:44 GMT
+   Recency Score: 10
+   Source Score: 12
+   Relevance Score: 8
+   Materiality Score: 5
+
+19. Score: 35
+   Title: RIL enters fighter engine race with Rolls-Royce: What this means for HAL investors? Analysts decode - financialexpress.com
+   Source: financialexpress.com
+   Source Quality: NORMAL
+   Published: Thu, 20 Aug 2026 04:58:01 GMT
+   Recency Score: 10
+   Source Score: 12
+   Relevance Score: 8
+   Materiality Score: 5
+
+1. Stocks to watch: Reliance Industries, Power Grid, IREDA among shares to be in focus today. Details here - livemint.com
+   Source: livemint.com
+   Source Quality: HIGH
+   Published: Mon, 24 Aug 2026 02:13:26 GMT
+
+2. Stocks in news: Reliance Industries, Bank of Baroda, Power Grid, NATCO Pharma and JSW Infra - The Economic Times
+   Source: The Economic Times
+   Source Quality: HIGH
+   Published: Mon, 24 Aug 2026 00:30:00 GMT
+
+3. Reliance Infrastructure Ltd. Share Price Today - Reliance Infrastructure Ltd. Stock Price Live NSE/BSE - CNBC TV18
+   Source: CNBC TV18
+   Source Quality: HIGH
+   Published: Fri, 21 Aug 2026 10:00:00 GMT
+
+4. 3rd Chargesheet Filed In Reliance Communications' Rs 1,200-Crore Loan Fraud Case - NDTV
+   Source: NDTV
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 16:47:47 GMT
+
+5. Reliance Home Finance Ltd (RHFL) Share Price - Business Today
+   Source: Business Today
+   Source Quality: HIGH
+   Published: Fri, 21 Aug 2026 07:00:00 GMT
+
+6. DEE Development Engineers Secures INR 36 Crore Order from Reliance Industries - Energetica India Magazine
+   Source: Energetica India Magazine
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 07:26:22 GMT
+
+7. DAP 2026 has been designed to bolster self | Akashvani News - News On AIR
+   Source: News On AIR
+   Source Quality: NORMAL
+   Published: Sun, 23 Aug 2026 20:33:46 GMT
+
+8. Reliance Industries’ Underground Coal Gasification Project in Andhra Pradesh - Discovery Alert
+   Source: Discovery Alert
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 10:14:10 GMT
+
+9. RCOM Share Price Today - Reliance Communications on NSE/BSE - scanx.trade
+   Source: scanx.trade
+   Source Quality: NORMAL
+   Published: Sat, 22 Aug 2026 03:05:52 GMT
+
+10. Reliance Industries Q4 Results: PAT Falls 13% YoY, West Asia War Hits O2C, Oil & Gas Biz; Full Earnings Report - Goodreturns
+   Source: Goodreturns
+   Source Quality: NORMAL
+   Published: Tue, 18 Aug 2026 09:48:56 GMT
+
+11. RIL proposes Rs 2.73 lakh crore investment for India’s first coal gasification complex in Andhra - The Economic Times
+   Source: The Economic Times
+   Source Quality: HIGH
+   Published: Wed, 19 Aug 2026 19:07:10 GMT
+
+12. Reliance Industries Plans ₹2.73 Lakh Crore Investment For India's First Coal Gasification Project - Sahi
+   Source: Sahi
+   Source Quality: NORMAL
+   Published: Thu, 20 Aug 2026 03:07:09 GMT
+
+13. Reliance and Jio to invest Rs 10 lakh crore over seven years for India’s AI transformation: Mukesh Ambani - DD News
+   Source: DD News
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 05:08:16 GMT
+
+14. Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox
+   Source: Upstox
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 07:00:00 GMT
+
+15. Reliance Power Share Price - Live NSE: RPOWER Stock Price & Chart - Upstox
+   Source: Upstox
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 07:00:00 GMT
+
+16. Reliance Industrial Infra Share Price - Live NSE: RIIL Stock Price & Chart - Upstox
+   Source: Upstox
+   Source Quality: NORMAL
+   Published: Fri, 21 Aug 2026 07:00:00 GMT
+
+17. India nears full self-reliance in key electronics components: Vaishnaw - Awaz The Voice
+   Source: Awaz The Voice
+   Source Quality: NORMAL
+   Published: Mon, 17 Aug 2026 15:48:30 GMT
+
+18. Second To China In Mobile Manufacturing, India Now Planning To Bite Into The Entire Electronics Value Chain - ETV Bharat
+   Source: ETV Bharat
+   Source Quality: NORMAL
+   Published: Wed, 19 Aug 2026 14:52:44 GMT
+
+19. RIL enters fighter engine race with Rolls-Royce: What this means for HAL investors? Analysts decode - financialexpress.com
+   Source: financialexpress.com
+   Source Quality: NORMAL
+   Published: Thu, 20 Aug 2026 04:58:01 GMT
+
+================================
+NEWS SENTIMENT: Negative
+Positive: 1
+Negative: 2
+================================
+
+---- QWEN ANALYST ----
+Prompt sent to QWEN:
+
+    You are a professional Indian equity market analyst.
+
+    You analyze stocks listed on:
+    - NSE
+    - BSE
+
+    Analyze ONLY the information supplied below.
+
+    Stock:
+    RELIANCE
+
+    Exchange:
+    NSE
+
+    Current Price:
+    ₹1305.50
+
+    Technical Analysis:
+    
+Current Price: ₹1305.50
+
+20 DMA: ₹1309.25
+50 DMA: ₹1306.56
+200 DMA: ₹1393.84
+
+RSI: 55.24
+
+52 Week High: ₹1584.97
+52 Week Low: ₹1258.80
+
+Technical Trend: Bearish
+
+
+    Fundamental Analysis:
+    
+Stock: RELIANCE
+Exchange: NSE
+
+P/E Ratio:
+23.62
+
+Forward P/E:
+18.23
+
+EPS:
+55.27
+
+ROE:
+Not available
+
+ROA:
+Not available
+
+Debt / Equity:
+36.65
+
+Revenue Growth:
+29.70%
+
+Earnings Growth:
+-22.40%
+
+Dividend Yield:
+46.00%
+
+Market Capitalization:
+17666643329024
+
+
+    News Analysis:
+    
+Stock: RELIANCE
+
+Exchange: NSE
+
+RECENT RANKED NEWS:
+
+
+
+1. Stocks to watch: Reliance Industries, Power Grid, IREDA among shares to be in focus today. Details here - livemint.com
+
+Source: livemint.com
+
+Source Quality: HIGH
+
+Published: Mon, 24 Aug 2026 02:13:26 GMT
+
+Article Score: 85/100
+
+URL: https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWEpydXBYZWxXTjF2T20zOFl5N09tRHYzTF9rdmptQ04wRURvYUgtbVpZMWdzUFVUbV9XckZMMGlMTnhXMUYzanF6YnM3N3VMWTBYQzloUHZCMUVvMlpiaXlYS2hacnZBX0syRFMtM0sySmRhazg0NzZzZzBBblBkRTJOSW8zTk9RY3RrRFhFZUctNkpFZU9PeHZfY3NQRTZWY3RySElidjhqbW5hdTg4V2tGdE55Vm92Rjh0T0xqSjViR0E2cWg0THk3ejI1YXRqcVJXZUprYmxyZTVwcFk2WjJpeENwdi01RzlEbl9ZOEo4SlFwLVhLaS1ZbnByUdIBgwJBVV95cUxPaWtxOTNhRnlqa0tyM2pRZmZMd3l2NGxQNUlFUll2cGw1UWJGNG91Q2ttOWVIeHU4ZXFHMFgyenU0ZnJNRkl6NU5DeW5YVUEtNzBkNV91ZmprWUdaTG1kbEx2RXJwUEJQbWQ0X1JKMXBDSGx6MDhJRHRaaHJTZV9UcEFTZXp1T21PUWRSUlJ2Z1JJMHMtYWJRM1UtREtqVjktUGQ0UHduT0RrckdyaDlHRFZFSnNuSGFVbUJkdnJFWHRWc080R2EwbXBYOHh6QmpNcDFWSUxzQ2ZOZE5hUHhLRWRxdlFzZU1DMlZFMHNleHNvdmRjQ1FJbHNBdnFaMVFqUkE0?oc=5
+
+
+
+2. Stocks in news: Reliance Industries, Bank of Baroda, Power Grid, NATCO Pharma and JSW Infra - The Economic Times
+
+Source: The Economic Times
+
+Source Quality: HIGH
+
+Published: Mon, 24 Aug 2026 00:30:00 GMT
+
+Article Score: 85/100
+
+URL: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdHRNMzRUcVZ0aWVZYXRyeExlZzlwRHV5SThuQWZCeldPZ21vYXRZYldXUEE4MFJiZzBJT05RVWR5NnBGMDRzOXp3T0swdld0N3hHTHFrRDZ4U1FiS292Tzl1U1FIRkxiYk1tQ1ZVb2NBWkV5SWEwSUtHc1NfcV96SGdzZFpRUnhMenlIUDlKeF9MSzdDWC1sV1ZiOElQc0JDUk1UWHlkZ0lzUHBreUxld2phQWt5ZFRFNFpVTTBwNG1najd0dFRGdG9CVnYwZHF0dVB6Y1VNQzd1dld2OGZnOW15ck80eXNvbUtkYUhjelRRWG_SAfgBQVVfeXFMTlBxOVVKUVQ5X2V1ejdEZ1ZQdE9Ca2tvOWtDSm9XWkVaX0ZmSHZlZTFDbDd2aTBHMGdJa2JFQ2plcUF5bnc1elktQ0NzTWhKVGxHOGpLTTRUUVNWeUxzNG1SVENhQzIyTW83eHlhNlczLUJFMEJ0NUIzTnpYaGRyc0pEeHVidVF0Z3BtM1hjeE92NTVTc1RlM0NHdTJGN0FYWnpPNVJrTnpfcEFlUVhPeEtFck80aUd6N0owYU1JVk5zdTA5R1RiZXlnOGNjZkt5bVpETDkwUlBpbGhwbm45bGhNQWNaS01SU1U4bktHWTNWVUFtTWtUeWU?oc=5
+
+
+
+3. Reliance Infrastructure Ltd. Share Price Today - Reliance Infrastructure Ltd. Stock Price Live NSE/BSE - CNBC TV18
+
+Source: CNBC TV18
+
+Source Quality: HIGH
+
+Published: Fri, 21 Aug 2026 10:00:00 GMT
+
+Article Score: 68/100
+
+URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1g4SmRaV2FhN0RhNzl2WmY2U0xrVUZ4dm92OHRVWk5hNkJ2Vkk0TWZZdDhnUV9lMjFpY3BkcXZzLTJId01rbkJ1TGlielRMRkdwQ3JXWkJoMkNXZ0R0eHNGNFc5X09GSEJ0TFNaNDFrRkZrcUg4RWQ2X2c0d2U3RWhvdU9ieFBvZHZENw?oc=5
+
+
+
+4. 3rd Chargesheet Filed In Reliance Communications' Rs 1,200-Crore Loan Fraud Case - NDTV
+
+Source: NDTV
+
+Source Quality: NORMAL
+
+Published: Fri, 21 Aug 2026 16:47:47 GMT
+
+Article Score: 65/100
+
+URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxQUGpIdUdxa09xcjlLa1lJejBiOW43SHBNNzZLY29XRDJlTnRpYUN2TmE1M0lDRzh5T2x1ME44N0xKeGtla0xlMUNxRENpRGdPdnQ5ekE4QzJESWJObU90RDVtdUtaU1Q2VTRuTE9hdWIyemxSY2xMaUpwZkRfVTV3ajhnRVozN2VFSmNNenVjUGxIXzFWaU4ybnRvZ3lxcHRNUUl4VWhwSzVBVmh0aVFBNUNwVFJ1aVdMaWE1atIBxAFBVV95cUxPY2VkYmtGNURYWnEybWRKeGtoOEVmMi1Rcy1VdGdOTkktTTdYdVZLLUZJQklPenduV2VLVFB3azF1RTNKRDVudEt3ZWNTWjJEcklZbjJ4RGpDZnFadzVuMjhCSFBkbDEzNlNzN1dqazM1NDFBdkZwbzBiQXlHUXZaLXZ4WklkSk9jUjloTVlnb3pHelBWOUhVQ0UzMFBVeE1WdjFJLXVGSjY1Y202b2RqbnRTVDN6RjVIOERmSmtMVnd0VV9i?oc=5
+
+
+
+5. Reliance Home Finance Ltd (RHFL) Share Price - Business Today
+
+Source: Business Today
+
+Source Quality: HIGH
+
+Published: Fri, 21 Aug 2026 07:00:00 GMT
+
+Article Score: 60/100
+
+URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxPSGUtbGVqbklfN0dGYUxTbXlycW5PVHlqR3kzY2V6NC11M05mM2FhRkJ1YTFfZXRzR0hDdnpBamNCNUVjZUhaXzV5N2d6b2Q1M3ZXWFY5c0xEVjZuTmhPSFlyV00taU5hQUVjbGd3ZjVFQkdKc0EtNUdPVGphT1pUUkhwNmtRSm5VN182cE1B?oc=5
+
+
+
+6. DEE Development Engineers Secures INR 36 Crore Order from Reliance Industries - Energetica India Magazine
+
+Source: Energetica India Magazine
+
+Source Quality: NORMAL
+
+Published: Fri, 21 Aug 2026 07:26:22 GMT
+
+Article Score: 57/100
+
+URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWN4dmJrQzF2Nk1raTdSblRybmdyOElNcDg1UjZvaXVMa2lTRDNaZm1OcGU5WElSSUF3d1MyWFVra1RCLVR3QnZXcnljT0pZd3Zkd1hrX2pJV0V2ODYxNExOc3prM2JUOVFHQ2Q3LW1qSlMzNElSSHR4bmFhcDFxWExBQkNqd2E0XzlrSTZxMzJVOFk4S3d5YjNZTTRiSmY5d25oR1dUbHk4dC1PbENsQXN3?oc=5
+
+
+
+7. DAP 2026 has been designed to bolster self | Akashvani News - News On AIR
+
+Source: News On AIR
+
+Source Quality: NORMAL
+
+Published: Sun, 23 Aug 2026 20:33:46 GMT
+
+Article Score: 55/100
+
+URL: https://news.google.com/rss/articles/CBMihAJBVV95cUxONWNuYnBEMDEzVjNnSEJ1MTZhblpBa3hHOW4xOHA0YmUyUnE3YWpveldpU0hGNzlwa092N1N2QjdsRnRDOVYzOEF1X1VyQmttM2huQ0FJSHVPelNidnJfYzE2Mi1hSnU4TXR4MEw3d2htQkVaNjdxWXRwUUN3cGltRzJmVHhBSnJNUmctQS14MzFNcDN1LUNnRWhQcng3VkJMQkhWbTJDT1hJel9Rc2VzRWt2M1d6dWVlQXFmSXZEaFlQOGMwVE83TGw1b2t2SElOa1pjNU9ISERJeVpEeXFDczdpb2c4Tm5IU2VkM1k2NVdaNFM1S3JwVkRDdDB2VW15cndmbw?oc=5
+
+
+
+8. Reliance Industries’ Underground Coal Gasification Project in Andhra Pradesh - Discovery Alert
+
+Source: Discovery Alert
+
+Source Quality: NORMAL
+
+Published: Fri, 21 Aug 2026 10:14:10 GMT
+
+Article Score: 55/100
+
+URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxNeG9mTnVEakM5cmVVNEFhY0g5T2VrN2RFWEc2MWhFUE8teWpIcFJVVlFYRElwSVlWbkc0MFRRaWtEYy1RUExlVklVNm1TQVNKMld1TWtQamZiNGt6TE05djRrS0hjSXdmbnhRWXEzaHhUUGpLcTA0eEwxYmtQOEFGcEJOdWVOVmNsc1kyRXZZb1ZLcWs?oc=5
+
+
+
+9. RCOM Share Price Today - Reliance Communications on NSE/BSE - scanx.trade
+
+Source: scanx.trade
+
+Source Quality: NORMAL
+
+Published: Sat, 22 Aug 2026 03:05:52 GMT
+
+Article Score: 55/100
+
+URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrSWRPSVU1SUotMWM2MW1ZYnFoaDFOb3RNRlhoa01RT3prdGtoMldZY2xyWjJMU3h2YmRTMHpkdWhINWFNOFNNaWtCQ1FnbEpKYnU3STlpM1N1bDRubDJMM29qd2xNUQ?oc=5
+
+
+
+10. Reliance Industries Q4 Results: PAT Falls 13% YoY, West Asia War Hits O2C, Oil & Gas Biz; Full Earnings Report - Goodreturns
+
+Source: Goodreturns
+
+Source Quality: NORMAL
+
+Published: Tue, 18 Aug 2026 09:48:56 GMT
+
+Article Score: 52/100
+
+URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxObHJOVnFVZ21hRUp4Y08tYlE3Y0RFUzY3cjlQSWRZNjRwcGJGd25jTWE2aWV2MVM4MVBYNV8yREVoQ0tNTzJJUHd2VVFXalVIcE1ieXlKeEZMSUh6UjhHMnBJM1hRbkhBV3FJbE82UFJkVmcyM2ctclpDcXdSaFlRR0R1WGhHYWpOQUxRNDkxNmIwM2YyamdVUjdXRndPVHR4SS1US1BqZ3hUMG1qMDZOdXNIbVF2dHphYXNQRFBtSEttaVhObUk0ZDZfVXR1NUlMcDRxMkhROXRoZw?oc=5
+
+
+
+11. RIL proposes Rs 2.73 lakh crore investment for India’s first coal gasification complex in Andhra - The Economic Times
+
+Source: The Economic Times
+
+Source Quality: HIGH
+
+Published: Wed, 19 Aug 2026 19:07:10 GMT
+
+Article Score: 48/100
+
+URL: https://news.google.com/rss/articles/CBMiygJBVV95cUxOTDdtSkR4ejE5c09hc3RyRUQ5RG1lT1hrTHJXSDl0d3JZazAtZkJYQWxkUklNYi1STFZFa1JRcTFwbUJXa21UZWlBV09tSVJ3RGNSU0FIWHFqZHdPendhN1NlNy02Tzl1Nk1WaTJCTzFqcl9XRVNsYkVxeUlydXVHa3RoTGtnYnFpRkhRUkROWWxmQlN6TS1zUVBjZV9UeTZXTVNkQ3VhemhtS1ZMV1VWS1dGMWM4X0FNTTlUQ2RJeHJ0d0lSV2ZabFU5ejZRaTNBaFRKR2U3X2hoWFBZd1FWeHd0UW1sdFpXTHF1c3B5bVJMWnZPRHR1cFlNbC1sUmgwZmtWcWpGSzNZaDRuQ0piSjZ6VmYwWTR5REYzdXpiZzVKLUliOGhUNUpuc3EwUjJ6bWsxYkYxWndyekhBOXNqRWRFODVuVGl6Q1HSAc8CQVVfeXFMTzMyZnJyM2t5UERBMHlKLV9aVjNpODBIT1hKR012Nk1oNXVSSVdkSk9HdE9tLThHNkdXSDU1U3FCbk5kdUxpTFp2ZWFjajM5MGJtRUFtUTNoazFTVElUQ2FHX1ZXRjJaQmlDcWRTdDVjR0tyQ1NtTnV1eVlVZEhBOEVSQnh3QUFxa2R6MWZydHJqWm9LbmVoX09uWUJUWFlYeVY2ZTJndDZIQm9XZmg2a3ZqYUxQaTRvQlh5Uzk0eXhJcGtEbGkteWRwREU4a2JUWEswcWwzUzF2U05hdmxpcTdtRXZFU1o2dE56MXUwTXNDR1M4NnEtY0tGSlNjc3FrLVk0TDhjMm5mdTNNcEpqeUZlTmRadEo0c3ZSRDlxSHFXSzB2cDdnblVERFBTX0lkZjVhT2h0Zm5WRWhldW1wV0o1Rkpkc2ZyYlRvcjVuMm8?oc=5
+
+
+
+12. Reliance Industries Plans ₹2.73 Lakh Crore Investment For India's First Coal Gasification Project - Sahi
+
+Source: Sahi
+
+Source Quality: NORMAL
+
+Published: Thu, 20 Aug 2026 03:07:09 GMT
+
+Article Score: 47/100
+
+URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2RrYnhKY3ZYRmM1YWx2emZHbmVsX3Vsck9qY3dCZ0xqWnpwbjYwd1NYaWNUeFNyeUFhMHFtS29hZzNyeEE0ZWlNVkNnUl9TaDZEbVMtTkItaGpWaXB4S1NDalFvWGg5Ujh5cWxOYTNEX0JqRTFxWEktN3VxZkJ1amtCbUNBY2hhS2gzM0RiN21lSE5sZ2V6bWdwQnBoSi1oUDdxdWZid0tTTFVRNDZJV2o2NzdTOXBMVnRxNU1GamlzTEFkamJIMF8wSzZodzhE?oc=5
+
+
+
+13. Reliance and Jio to invest Rs 10 lakh crore over seven years for India’s AI transformation: Mukesh Ambani - DD News
+
+Source: DD News
+
+Source Quality: NORMAL
+
+Published: Fri, 21 Aug 2026 05:08:16 GMT
+
+Article Score: 47/100
+
+URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaWs3X3BQVldRaV94YUpJVDViMnBXNFpHY2s2NlplbjN1dnFhVERfM2dXeUc2T3FyRnh2N2lyNHd4S3BYSDlaUTQ1RWVSZDdQY19VdW9KTlRGbkZJcFFNTlg3WDA2SGI3dVRLTEMydjEzUEF6TDk4SnhOYkJYRV8zeXlDTGdNQ2hncEZpZHNsdzEtYy15RGRqX2JNLTlHUlRaUElDUXQwNjhtN1V6dzNTVWtCMkxLdE5PLU82S1JtNG9PYUY3QklDcQ?oc=5
+
+
+
+14. Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox
+
+Source: Upstox
+
+Source Quality: NORMAL
+
+Published: Fri, 21 Aug 2026 07:00:00 GMT
+
+Article Score: 47/100
+
+URL: https://news.google.com/rss/articles/CBMib0FVX3lxTFB6bHBYSldaWTEwM0pneWlBUVNlVjM0Njl2NFVCNGR3NTlneGlzM3VRa3Zha1RQWXJDRkxjUjR6V0hPTGsyN2FKTmFtak50X0pjUjNtQmhvMmRCTHJnNXdhYzI4c0lKU3hlVnB4cWRNbw?oc=5
+
+
+
+15. Reliance Power Share Price - Live NSE: RPOWER Stock Price & Chart - Upstox
+
+Source: Upstox
+
+Source Quality: NORMAL
+
+Published: Fri, 21 Aug 2026 07:00:00 GMT
+
+Article Score: 47/100
+
+URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE02RVFzLW02NWZuQXZEYXItYmtOMkNubU1GRWNGcDIyVUNGUEJmQlg4SlI5QkZiMk1yMEZmUlAzU05VX1ktTlVwajV2S1RWNEczWkZEZmNVLWR2WlRqTUJFZl9ESldmYVN0?oc=5
+
+
+
+16. Reliance Industrial Infra Share Price - Live NSE: RIIL Stock Price & Chart - Upstox
+
+Source: Upstox
+
+Source Quality: NORMAL
+
+Published: Fri, 21 Aug 2026 07:00:00 GMT
+
+Article Score: 47/100
+
+URL: https://news.google.com/rss/articles/CBMickFVX3lxTE54eG1fdkZ5LXBFbDVfU1NrZ0xsRlZHd1lZOTExQVc2LW96UXcyUDRvZ0M2eldMNS1yMnRiMDZYa3pMbi1lYy1yUG5oM1hZY1JjLTZXNmRIcm90M0xOclJUcmx1YVlYNHREV2R5X3VSdjEzdw?oc=5
+
+
+
+17. India nears full self-reliance in key electronics components: Vaishnaw - Awaz The Voice
+
+Source: Awaz The Voice
+
+Source Quality: NORMAL
+
+Published: Mon, 17 Aug 2026 15:48:30 GMT
+
+Article Score: 42/100
+
+URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWpRS05uS1pRTXRJaFc4Yk84WTRuQUFQZksyNXlWSExwbFk2bEpDdEplWEN4MXI1MXRlRDZFakxuVzdQQk01RW9KYk1ITUl3MnAxNkJjYWs4N3Q4bmFoV0h2US1LT2lOQy1VWm00aWFRcTREZTMxU3JVbDZxMUlFUnByWkNDWVJ4eEdyaC1KTi1Md2hZOE0zR1Q1bl9uVjNGd18xczFvazlWZnV0QWd2N2RtOTZ4WFRjeFR3?oc=5
+
+
+
+18. Second To China In Mobile Manufacturing, India Now Planning To Bite Into The Entire Electronics Value Chain - ETV Bharat
+
+Source: ETV Bharat
+
+Source Quality: NORMAL
+
+Published: Wed, 19 Aug 2026 14:52:44 GMT
+
+Article Score: 35/100
+
+URL: https://news.google.com/rss/articles/CBMiiwJBVV95cUxQUjRwazVnUndxVFBsNjVIdWR0VGx4NThkbGdfUnl1cy02ZklFWXJpQVgtcDFhdENRTm9Qb3dnZUVyMkNFZjZvOHhXcGIxTTNrbUdWZVpsck8tazJnelVsT19DZDlISS16bkkySWhnYlZZelNINmtzU183VEMydlZQaGk3SmhnTjBNNWVBQTRFRlRFNGFENnR1Q3R4eGZXTEN3bTVVa09yLVlGaUNHenFvRWFPMUJ6WkZ6VV8ySDdvMWtFNDg0aDUwMkZmMER2UEtWTWMtWTNRNnAzeTBad2hRLXlib0YxWE94R1FGMDZjUG9CRTlhTmFJWDhwYjJxS0JXTVJZYjAzakNXWjjSAZACQVVfeXFMTm5aM1RuSWFxak11UDNJa00yTW9qcDdkOWt2ZzhrUHhJWF9nQmZzTVRvV3NNb3I0MVkzdlo1b2hQV09BVThKbWNnY0lXNktoLS12aGZVcEJUV09FZzVyLWlma1U4SVJMbWlfbkdaWmhpWTdpX1h1M2tqejJ3azFUMmNqWVlxMXQ4TC1CWGVlZnJyZHN2LWlubWV3dFJuMEFsbkZBZmVHVV9VaTRCREVRMXQtamQ5ckR0WFQ0U2hudzFETDFsZHBXQXVzWVVoYTRyV2t2WHJpQUUweS1ILXVyRXFFbFdkcUxqeUtqOVNxMElMY2xhdzZiZTU0TFJISXZqTUJkMTg0Y1AwVkNRSlJkYUk?oc=5
+
+
+
+19. RIL enters fighter engine race with Rolls-Royce: What this means for HAL investors? Analysts decode - financialexpress.com
+
+Source: financialexpress.com
+
+Source Quality: NORMAL
+
+Published: Thu, 20 Aug 2026 04:58:01 GMT
+
+Article Score: 35/100
+
+URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZW11TWRPMlFiNTAzTHdvd2N5UmdGdFk0VW5yTDZPaUFueHI3ek4yTkw5NkRUOEVyb3MwcHBmd1pxSkNXeklHbzNBWlczNGdKNEtWa1EwLUNsc2J0OWhFeVBPWUw4V1R0R1daTGhYREt1YkVKY3I4SFBDNjhUYkkzeHlpb3loV0FnVUJtUlp6UGtTMkJfM2V0aFl1NWtCSE43TnNNQVdfcjJ2cUZ4UGxac2pWLTJseWtzQzRLd05SZGNnZG4taV9wekdsaW5TM1JCOWxpeTMyTEFCNUdvMGk00gHmAUFVX3lxTE15OS10bnFlYzBLX0FHQ0NkOTR1VUlRWGZfVmJiUU15V1dRVkwwek1xSGlEZGtpb1BfZkNvOHlnYm92RVFnVVZKbzNuSnNHa25RUzBBalpXNXpvRzlZc2tBTC14NWpzVVRNYWsxMF9kM2ZndldDTFpvVlpWUjVfOHQwX1NULUstaFdYaGRjRlU0dVVwMDR5aXZ6Z1pRa1ByUWxjVW9FS09QaDI5ZGtYMTBTa2tQQ1BBTXNRM3hHcFg5TUpDRXp1R2NqVW1YdW1NVlJ0dmJGVkdFVV9oSzF6bzJSVTI4Q05R?oc=5
+
+
+
+NEWS SENTIMENT:
+Negative
+
+Positive Signals:
+1
+
+Negative Signals:
+2
+
+
+    IMPORTANT RULES:
+
+    1. Do NOT invent financial data.
+    2. Do NOT assume missing metrics.
+    3. Use only the supplied market data.
+    4. Use Indian stock-market terminology.
+    5. Consider the technical indicators carefully.
+    6. Give a cautious analytical recommendation.
+    7. Confidence must reflect the quality and completeness of the available data.
+
+    NEWS ANALYSIS RULES:
+
+    8. News sentiment is derived from recent news articles.
+    9. Consider the actual news headlines rather than relying only on the calculated sentiment label.
+    10. Do not assume that positive news means the stock should be bought.
+    11. Consider whether the news is material to the company's earnings,
+    valuation, operations or future growth.
+    12. Do not treat old or unrelated news as a current catalyst.
+    13. Give greater weight to news from established financial and
+    business-news sources.
+    14. Do not treat an individual news article as confirmed fact unless
+    supported by reliable information.
+    15. Recent news should generally receive more weight than older news.
+    16. Do not infer a BUY or SELL recommendation from news sentiment alone.
+    17. If recent relevant news is unavailable, explicitly consider this
+    limitation in your confidence.
+
+    DECISION RULES:
+
+    18. Consider Technical Analysis, Fundamental Analysis and News Analysis
+    together.
+    19. Do not allow one positive or negative indicator to determine the
+    recommendation by itself.
+    20. If important data is missing, reduce confidence accordingly.
+    21. Distinguish between short-term technical signals and longer-term
+    fundamental strength.
+    22. The recommendation should represent the overall evidence available
+    at the time of analysis.
+
+    Recommendation must be:
+    BUY, HOLD, or SELL.
+
+    Confidence must be between 0 and 100.
+    
+Recommendation: HOLD
+Confidence: 45
+Rationale: The analysis indicates mixed signals with one positive and two negative news impacts. While India's electronics self-reliance and RIL's fighter engine plans could hint at growth opportunities, the overall sentiment leans negative due to potential competitive pressures on HAL and uncertain data quality (with some articles scoring below 50/100). Without technical/fundamental data, a cautious HOLD is advised, with confidence capped at 45% due to incomplete information.
+
+---- CONFIDENCE ROUTER ----
+Recommendation: HOLD
+Confidence: 45
+
+---- NEED MORE ANALYSIS ----
+INSUFFICIENT CONFIDENCE - RELIANCE received HOLD with 45% confidence
+
+==========================================
+             FINAL RESULT
+==========================================
+Stock          : RELIANCE
+Exchange       : NSE
+Price          : 1305.5
+Recommendation : HOLD
+Confidence     : 45
+Decision       : INSUFFICIENT CONFIDENCE - RELIANCE received HOLD with 45% confidence
+Rationale      : The analysis indicates mixed signals with one positive and two negative news impacts. While India's electronics self-reliance and RIL's fighter engine plans could hint at growth opportunities, the overall sentiment leans negative due to potential competitive pressures on HAL and uncertain data quality (with some articles scoring below 50/100). Without technical/fundamental data, a cautious HOLD is advised, with confidence capped at 45% due to incomplete information.
+==========================================
