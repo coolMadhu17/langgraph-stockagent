@@ -60,8 +60,12 @@ class StockAnalysis(BaseModel):
 # ============================================================
 
 llm = ChatOllama(
-    model="qwen3:8b",
-    base_url="http://localhost:11434"
+    model="qwen3.5:latest",      #when tested with new model,had issues with LLM response/tokens..hence turned off the thinking by setting reasoning = false below
+    base_url="http://localhost:11434",
+    temperature=0,
+    num_ctx=16384,
+    num_predict=800,
+    reasoning=False
 )
 
 structured_llm = llm.with_structured_output(StockAnalysis)
@@ -1063,6 +1067,8 @@ def analyst_node(state: StockState):
     BUY, HOLD, or SELL.
 
     Confidence must be between 0 and 100.
+    Return ONLY valid JSON. Do not use markdown fences.
+    Do not include explanations outside the JSON.
     """
 
     print("Prompt sent to QWEN:")
@@ -1070,6 +1076,11 @@ def analyst_node(state: StockState):
 
     response = structured_llm.invoke(prompt)
 
+    #response = llm.invoke(prompt)
+
+    print("\n========== LLM - RESPONSE ==========")
+    #print(response.content)
+   # print("========================================")
     print("Recommendation:", response.recommendation)
     print("Confidence:", response.confidence)
     print("Rationale:", response.rationale)
